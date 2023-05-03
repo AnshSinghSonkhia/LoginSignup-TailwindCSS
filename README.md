@@ -1,4 +1,4 @@
-# LoginSignup-TailwindCSS
+# LoginSignup TailwindCSS
 
 ### Solar System Exploration, 1950s – 1960s
 
